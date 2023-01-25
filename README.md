@@ -42,8 +42,6 @@ docker-compose pull
 docker-compose up -d
 ```
 
-```
-
 ## Community
 🔔Telegram Channel: [@archostofficial](https://t.me/archostofficial)  
 
