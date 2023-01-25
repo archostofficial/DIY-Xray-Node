@@ -1,14 +1,14 @@
 <img src="https://archost.com/wp-content/uploads/2022/12/Icon-blue-512x512-1.png" alt="logo" width="130" height="130" align="right"/>
 
-# ** DIY Node XRAY **
+# ** DIY Xray Node **
 
 A backend structure built on Xray that can easily handle a variety of panels and is compatible with V2ray, Trojan, and Shadowsocks protocols. Additionally, it is effortless to extend and can be connected to multiple panels.
 
-## Web Site
-[Click](https://archost.com)
+## One Click install product
+[Setup Now](https://my.archost.com/store/diy-vpn/diy-xray-node)
 
 ## Document
-[Click](https://archost.com)
+[Click](https://my.archost.com/knowledgebase/7011/DIY-Xray-Node)
 
 ## Linux Installation
 
