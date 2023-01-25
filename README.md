@@ -21,7 +21,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/ma
 docker pull ghcr.io/xrayr-project/xrayr:latest && docker run --restart=always --name xrayr -d -v ${PATH_TO_CONFIG}/config.yml:/etc/XrayR/config.yml --network=host ghcr.io/xrayr-project/xrayr:latest
 ```
 
-# Docker compose
+## Docker compose
 0. Install docker-compose: 
 ```
 curl -fsSL https://get.docker.com | bash -s docker
@@ -32,7 +32,6 @@ chmod +x /usr/local/bin/docker-compose
 2. `cd XrayR-release`
 3. Edit config. The basic format of the configuration file is as follows. Multiple panels and multiple node configuration information can be added under Nodes at the same time, just add the Nodes item in the same format.
 4. Start docker:docker-compose up -d`
-```
 
 ## Docker compose upgrade
 
